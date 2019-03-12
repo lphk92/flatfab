@@ -6,6 +6,8 @@
 
 QT       += core gui opengl widgets webkit network webkitwidgets
 
+INCLUDEPATH += /usr/include/eigen3/
+
 TARGET = FlatFab
 TEMPLATE = app
 
